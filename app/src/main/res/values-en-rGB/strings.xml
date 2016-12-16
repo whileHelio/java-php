@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">Pick Me</string>
+    <string name="savesGame">Save</string>
+    <string name="Salvar">Save</string>
+    <string name="buscarJogo">Load</string>
+    <string name="eliminar">Delete</string>
+    <string name="nomeJogo">Save Name</string>
+    <string name="nivel_1">Level 1</string>
+    <string name="nivel_2">level 2</string>
+    <string name="gameNew">NEW GAME</string>
+    <string name="JogosGrava">LOAD</string>
+    <string name="defini">SETTINGS</string>
+    <string name="UmaLetra">Choose a letter</string>
+    <string name="UmaPalavra">Guess the Word</string>
+    <string name="deNovoLetra">Try again</string>
+    <string name="email">Send Email</string>
+</resources>

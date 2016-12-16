@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+   >
+
+    <item android:id="@+id/Load"
+        android:title="@string/buscarJogo"
+
+        />
+
+    <item android:id="@+id/eliminar"
+        android:title="@string/eliminar"
+
+        />
+    <item android:id="@+id/Saves"
+        android:title="@string/Salvar"
+
+        />
+
+
+</menu>

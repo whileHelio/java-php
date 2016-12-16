@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pick Me</string>
+    <string name="savesGame">Guardar Jogo</string>
+    <string name="Salvar">Guardar Jogo</string>
+    <string name="buscarJogo">Jogos Guardados</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="nomeJogo">Nome do Save</string>
+    <string name="nivel_1">Nivel 1</string>
+    <string name="nivel_2">Nivel 2</string>
+    <string name="gameNew">NOVO JOGO</string>
+    <string name="JogosGrava">JOGOS GRAVADOS</string>
+    <string name="defini">DEFINIÇÕES</string>
+    <string name="UmaLetra">Indique uma Letra</string>
+    <string name="UmaPalavra">Indique a Palavra</string>
+    <string name="deNovoLetra">Tenta de Novo</string>
+    <string name="email">Enviar Email</string>
+</resources>
